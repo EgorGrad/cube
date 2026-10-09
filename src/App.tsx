@@ -1,5 +1,7 @@
-export default function App() {
-  return (
-    <div/>
-  );
+import RubiksCube from './RubiksCube';
+
+function App() {
+  return <RubiksCube />;
 }
+
+export default App;
